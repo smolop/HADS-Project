@@ -1,0 +1,14 @@
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\BusinessLogic4WA.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\BusinessLogic4WA.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\DataAccess.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\Sql.Library.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\EntityFramework.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\DataAccess.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\Sql.Library.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\Sql.Library.dll.config
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\bin\Release\EntityFramework.xml
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\obj\Release\BusinessLogic4WA.csprojResolveAssemblyReference.cache
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\obj\Release\BusinessLogic4WA.csproj.CoreCompileInputs.cache
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\obj\Release\BusinessLogic4WA.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\BusinessLogic4WA\obj\Release\BusinessLogic4WA.pdb

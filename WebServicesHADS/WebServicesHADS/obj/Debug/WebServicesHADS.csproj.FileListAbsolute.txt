@@ -1,0 +1,16 @@
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\WebServicesHADS.dll.config
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\WebServicesHADS.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\WebServicesHADS.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\obj\Debug\WebServicesHADS.csproj.CoreCompileInputs.cache
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\obj\Debug\WebServicesHADS.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\obj\Debug\WebServicesHADS.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\obj\Debug\WebServicesHADS.csprojResolveAssemblyReference.cache
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\DataAccess.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\Sql.Library.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\EntityFramework.dll
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\Sql.Library.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\Sql.Library.dll.config
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\DataAccess.pdb
+C:\Users\smolina\Dropbox\Workspace\GII3\HAS\HADS-Project\WebServicesHADS\WebServicesHADS\bin\EntityFramework.xml
